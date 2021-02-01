@@ -1,0 +1,38 @@
+.part_8{
+    margin-top: 4em;
+}
+
+.part_8_back {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.part_8_ul {
+    display: block;
+    list-style: none;
+}
+
+.part_8_ul_item {
+    display: inline;
+}
+
+.part_8_img {
+    height: 133px;
+    
+}
+
+.part_8_text{
+    width:15em;
+    text-align: center;
+    border-radius: 4em;
+    display: block;
+    position: absolute;
+    left: 51em;
+    top: 201em;
+    background:rgba(195, 195, 195, 0.842);
+}
+
+#part_8_text_head-2{
+    color: rgb(98, 96, 96);
+}

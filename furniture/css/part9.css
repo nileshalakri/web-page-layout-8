@@ -1,0 +1,16 @@
+.part_9{
+    margin-top: 3em;
+    margin-bottom: 3em;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.part_9_item_icon{
+    font-size: 6em;
+    color: rgb(107, 102, 102);
+}
+
+.part_9_item{
+    display: inline;
+}

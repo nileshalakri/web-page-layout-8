@@ -1,0 +1,152 @@
+.part_10{
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background: black;
+    color: white;
+}
+
+.part_10_section_1{
+    margin-top: 5em;
+    margin-bottom: 5em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section_1_div_1{
+    display: inline-block;
+}
+
+.section_1_div_2{
+    display: inline-block;
+}
+
+.section_1_div_3{
+    display: inline-block;
+}
+
+.section_1_div_4{
+    display: inline-block;
+}
+
+.part_10_link{
+    text-decoration: none;
+    color: white;
+}
+
+.part_10_link:hover{
+    color: rgb(98, 87, 87);
+}
+
+.part_10_ul{
+    list-style: none;
+}
+
+.part_10_ul_head{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.part_10_ul_item{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.part_10_ul_item_social_media{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+}
+
+.social_media_link{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+#social_media{
+    margin-top: 20px;
+}
+
+#facebook{
+    display: inline;
+    background: blue;
+    padding: 10px;
+    border-radius: 50em;
+}
+
+#twitter{
+    display: inline;
+    background: turquoise;
+    padding: 10px;
+    border-radius: 50em;
+}
+
+#google_plus{
+    display: inline;
+    background: orangered;
+    padding: 10px;
+    border-radius: 50em;
+}
+
+#youtube{
+    display: inline;
+    background: rgb(238, 9, 20);
+    padding: 10px;
+    border-radius: 50em;
+}
+
+#instagram{
+    display: inline;
+    background: teal;
+    padding: 10px;
+    border-radius: 50em;
+}
+
+.part_10_form{
+    background: white;
+    display: inline-block;
+    padding:10px;
+    border-radius: 30px;
+}
+
+#part_10_form_input{
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
+
+#part_10_form_button{
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    font-size: 20px;
+    color: white;
+    background:  rgb(168, 33, 56);
+}
+
+#part_10_divide_line{
+    width: 100%;
+    background: rgb(133, 124, 124);
+}
+
+.part_10_section_2{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 4em;
+    margin-right: 4em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.part_10_logo{
+    display: inline;
+    margin-top: 1em;
+    margin-bottom: 1.2em;
+    border-radius: 10px;
+    height: 40px;
+}

@@ -1,0 +1,48 @@
+.upper_section{
+    margin-top: 5em;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+
+}
+
+.arrow{
+    margin-top:10px;
+    font-size: 45px;
+    font-weight: lighter;
+    color: rgb(179, 165, 165);
+    background: inherit;
+    outline: none;
+    border: none;
+}
+
+#left_part{
+    display: inline-block;
+}
+
+#right_part{
+    display:inline-block;
+}
+
+#mid_part{
+    display:inline-block;
+}
+
+#mid_part_heading{
+    margin: 0;
+    font-size: 45px;
+}
+
+#part_7_hr{
+    margin-top: 0;
+    width: 55%;
+    height: 3px;
+    background:black;
+}
+
+
+.image_card_section{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
